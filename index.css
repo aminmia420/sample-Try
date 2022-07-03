@@ -25,3 +25,9 @@ h1{
 small{
     color: red;
 }
+p{
+    text-align: justify;
+}
+.second-anchor{
+    text-decoration: none;
+}
