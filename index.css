@@ -1,0 +1,27 @@
+
+h1{
+    text-align: center;
+}
+
+.div1{
+    border: 5px solid yellow;
+    border-radius: 5px;
+    margin: 20px 100px 40px;
+    padding: 10px;
+    
+}
+.div2{
+    border: 5px solid yellow;
+    border-radius: 5px;
+    margin: 20px 100px 40px;
+    padding: 10px;
+}
+.div3{
+    border: 5px solid yellow;
+    border-radius: 5px;
+    margin: 20px 100px 40px;
+    padding: 10px;
+}
+small{
+    color: red;
+}
